@@ -1,0 +1,45 @@
+12/11/2020 08:06:02 PM - LoginPage - INFO: Element Found
+12/11/2020 08:06:03 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+12/11/2020 08:06:05 PM - LoginPage - INFO: Element Found
+12/11/2020 08:06:05 PM - LoginPage - INFO: Send data on element wth locator: email locatorType: id
+12/11/2020 08:06:07 PM - LoginPage - INFO: Element Found
+12/11/2020 08:06:07 PM - LoginPage - INFO: Send data on element wth locator: password locatorType: id
+12/11/2020 08:06:12 PM - LoginPage - INFO: Element Found
+12/11/2020 08:06:13 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+12/11/2020 08:06:13 PM - LoginPage - INFO: Element Found
+12/11/2020 08:06:15 PM - LoginPage - INFO: Element Found
+12/11/2020 08:06:15 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+12/11/2020 08:06:17 PM - LoginPage - INFO: Element Found
+12/11/2020 08:06:17 PM - LoginPage - INFO: Send data on element wth locator: email locatorType: id
+12/11/2020 08:06:19 PM - LoginPage - INFO: Element Found
+12/11/2020 08:06:19 PM - LoginPage - INFO: Send data on element wth locator: password locatorType: id
+12/11/2020 08:06:24 PM - LoginPage - INFO: Element Found
+12/11/2020 08:06:26 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+12/11/2020 08:06:26 PM - TestStatus - INFO: ### VERIFICATION FAILED::+TITLE VERIFIED
+12/11/2020 08:06:26 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+12/11/2020 08:06:28 PM - LoginPage - INFO: Element Found
+12/11/2020 08:06:28 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL::+Login was not succesfull
+12/11/2020 08:06:28 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED
+12/11/2020 08:34:05 PM - LoginPage - INFO: Element Found
+12/11/2020 08:34:06 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+12/11/2020 08:34:08 PM - LoginPage - INFO: Element Found
+12/11/2020 08:34:08 PM - LoginPage - INFO: Send data on element wth locator: email locatorType: id
+12/11/2020 08:34:10 PM - LoginPage - INFO: Element Found
+12/11/2020 08:34:10 PM - LoginPage - INFO: Send data on element wth locator: password locatorType: id
+12/11/2020 08:34:15 PM - LoginPage - INFO: Element Found
+12/11/2020 08:34:16 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+12/11/2020 08:34:16 PM - LoginPage - INFO: Element Found
+12/11/2020 08:34:18 PM - LoginPage - INFO: Element Found
+12/11/2020 08:34:18 PM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+12/11/2020 08:34:20 PM - LoginPage - INFO: Element Found
+12/11/2020 08:34:20 PM - LoginPage - INFO: Send data on element wth locator: email locatorType: id
+12/11/2020 08:34:22 PM - LoginPage - INFO: Element Found
+12/11/2020 08:34:22 PM - LoginPage - INFO: Send data on element wth locator: password locatorType: id
+12/11/2020 08:34:27 PM - LoginPage - INFO: Element Found
+12/11/2020 08:34:30 PM - LoginPage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+12/11/2020 08:34:30 PM - LoginPage - ERROR: Failed to get page title
+12/11/2020 08:34:30 PM - TestStatus - INFO: ### VERIFICATION FAILED::+TITLE VERIFIED
+12/11/2020 08:34:30 PM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+12/11/2020 08:34:32 PM - LoginPage - INFO: Element Found
+12/11/2020 08:34:32 PM - TestStatus - INFO: ### VERIFICATION SUCCESSFUL::+Login was not succesfull
+12/11/2020 08:34:32 PM - TestStatus - ERROR: test_validLogin ### TEST FAILED

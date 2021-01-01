@@ -1,0 +1,36 @@
+12/28/2020 03:08:37 AM - RegisterCoursesPage - INFO: Element Found
+12/28/2020 03:08:37 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search'] locatorType: xpath
+12/28/2020 03:08:39 AM - RegisterCoursesPage - INFO: Element Found
+12/28/2020 03:08:40 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //div//form[@id = 'search']//div[@class = 'input-group']//button[1] locatorType: xpath
+12/28/2020 03:08:43 AM - RegisterCoursesPage - INFO: Element Found
+12/28/2020 03:08:46 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[contains(text(),'JavaScript for beginners')] locatorType: xpath
+12/28/2020 03:08:49 AM - RegisterCoursesPage - INFO: Element Found
+12/28/2020 03:08:53 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //div//button[contains(text(), 'Enroll in Course')] locatorType: xpath
+12/28/2020 03:08:59 AM - RegisterCoursesPage - INFO: Element Found
+12/28/2020 03:08:59 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //div[@id='card-number']//input locatorType: xpath
+12/28/2020 03:09:01 AM - RegisterCoursesPage - INFO: Element Found
+12/28/2020 03:09:01 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //div[@id = 'card-expiry']//input locatorType: xpath
+12/28/2020 03:09:03 AM - RegisterCoursesPage - INFO: Element Found
+12/28/2020 03:09:03 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //div[@id = 'card-cvc']//input locatorType: xpath
+12/28/2020 03:09:05 AM - RegisterCoursesPage - INFO: Element Found
+12/28/2020 03:09:05 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //div//form[@id='checkout-form']//div[@class = 'col-xs-12']//button[1] locatorType: xpath
+12/28/2020 03:09:18 AM - RegisterCoursesPage - INFO: Element not appeared on the web page
+12/28/2020 03:09:18 AM - RegisterCoursesPage - INFO: Element not displayed with locator:  locatorType: id
+12/28/2020 03:09:29 AM - RegisterCoursesPage - INFO: Element Found
+12/28/2020 03:09:29 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //input[@id='search'] locatorType: xpath
+12/28/2020 03:09:31 AM - RegisterCoursesPage - INFO: Element Found
+12/28/2020 03:09:31 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //div//form[@id = 'search']//div[@class = 'input-group']//button[1] locatorType: xpath
+12/28/2020 03:09:34 AM - RegisterCoursesPage - INFO: Element Found
+12/28/2020 03:09:38 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //h4[contains(text(),'Learn Python 3 from scratch')] locatorType: xpath
+12/28/2020 03:09:41 AM - RegisterCoursesPage - INFO: Element Found
+12/28/2020 03:09:45 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //div//button[contains(text(), 'Enroll in Course')] locatorType: xpath
+12/28/2020 03:09:51 AM - RegisterCoursesPage - INFO: Element Found
+12/28/2020 03:09:51 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //div[@id='card-number']//input locatorType: xpath
+12/28/2020 03:09:53 AM - RegisterCoursesPage - INFO: Element Found
+12/28/2020 03:09:53 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //div[@id = 'card-expiry']//input locatorType: xpath
+12/28/2020 03:09:55 AM - RegisterCoursesPage - INFO: Element Found
+12/28/2020 03:09:55 AM - RegisterCoursesPage - INFO: Sent data on element with locator: //div[@id = 'card-cvc']//input locatorType: xpath
+12/28/2020 03:09:57 AM - RegisterCoursesPage - INFO: Element Found
+12/28/2020 03:09:57 AM - RegisterCoursesPage - INFO: Clicked on element with locator: //div//form[@id='checkout-form']//div[@class = 'col-xs-12']//button[1] locatorType: xpath
+12/28/2020 03:10:10 AM - RegisterCoursesPage - INFO: Element not appeared on the web page
+12/28/2020 03:10:10 AM - RegisterCoursesPage - INFO: Element not displayed with locator:  locatorType: id

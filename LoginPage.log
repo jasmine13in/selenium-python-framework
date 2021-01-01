@@ -1,0 +1,35 @@
+12/28/2020 03:08:11 AM - LoginPage - INFO: Element Found
+12/28/2020 03:08:12 AM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+12/28/2020 03:08:16 AM - LoginPage - INFO: Element Found
+12/28/2020 03:08:16 AM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/28/2020 03:08:18 AM - LoginPage - INFO: Element Found
+12/28/2020 03:08:18 AM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/28/2020 03:08:22 AM - LoginPage - INFO: Element Found
+12/28/2020 03:08:29 AM - LoginPage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+12/28/2020 03:10:24 AM - LoginPage - INFO: Element Found
+12/28/2020 03:10:25 AM - LoginPage - INFO: Clicked on element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+12/28/2020 03:10:29 AM - LoginPage - INFO: Element Found
+12/28/2020 03:10:29 AM - LoginPage - INFO: Sent data on element with locator: email locatorType: id
+12/28/2020 03:10:31 AM - LoginPage - INFO: Element Found
+12/28/2020 03:10:31 AM - LoginPage - INFO: Sent data on element with locator: password locatorType: id
+12/28/2020 03:10:35 AM - LoginPage - INFO: Element Found
+12/28/2020 03:10:43 AM - LoginPage - INFO: Clicked on element with locator: //input[@value='Login'] locatorType: xpath
+12/28/2020 03:11:01 AM - LoginPage - INFO: Element not appeared on the web page
+12/28/2020 03:11:01 AM - LoginPage - INFO: Cannot click on the element with locator:  locatorType: id
+12/28/2020 03:11:05 AM - LoginPage - INFO: Element not found
+12/28/2020 03:11:05 AM - LoginPage - INFO: Cannot click on the element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+12/28/2020 03:11:09 AM - LoginPage - INFO: Element not found
+12/28/2020 03:11:09 AM - LoginPage - INFO: Cannot send data on the element with locator: email locatorType: id
+12/28/2020 03:11:11 AM - LoginPage - INFO: Element not found
+12/28/2020 03:11:11 AM - LoginPage - INFO: Cannot send data on the element with locator: password locatorType: id
+12/28/2020 03:11:15 AM - LoginPage - INFO: Element not found
+12/28/2020 03:11:15 AM - LoginPage - INFO: Cannot click on the element with locator: //input[@value='Login'] locatorType: xpath
+12/28/2020 03:11:19 AM - LoginPage - INFO: Element not found
+12/28/2020 03:11:19 AM - LoginPage - INFO: Cannot click on the element with locator: //a[contains(text(),'Sign In')] locatorType: xpath
+12/28/2020 03:11:23 AM - LoginPage - INFO: Element not found
+12/28/2020 03:11:23 AM - LoginPage - INFO: Cannot send data on the element with locator: email locatorType: id
+12/28/2020 03:11:25 AM - LoginPage - INFO: Element not found
+12/28/2020 03:11:25 AM - LoginPage - INFO: Cannot send data on the element with locator: password locatorType: id
+12/28/2020 03:11:29 AM - LoginPage - INFO: Element not found
+12/28/2020 03:11:29 AM - LoginPage - INFO: Cannot click on the element with locator: //input[@value='Login'] locatorType: xpath
+12/28/2020 03:11:29 AM - LoginPage - ERROR: Failed to get page title

@@ -1,0 +1,6 @@
+12/28/2020 03:08:31 AM - NavigationPage - INFO: Element Found
+12/28/2020 03:08:33 AM - NavigationPage - INFO: Clicked on element with locator: ALL COURSES locatorType: link
+12/28/2020 03:09:20 AM - NavigationPage - INFO: Element Found
+12/28/2020 03:09:25 AM - NavigationPage - INFO: Clicked on element with locator: ALL COURSES locatorType: link
+12/28/2020 03:10:55 AM - NavigationPage - INFO: Element not appeared on the web page
+12/28/2020 03:10:55 AM - NavigationPage - INFO: Cannot click on the element with locator:  locatorType: id

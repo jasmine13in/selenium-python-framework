@@ -1,0 +1,8 @@
+12/28/2020 03:09:18 AM - TestStatus - ERROR: ### VERIFICATION FAILED::+Enrollment Failed Verification
+12/28/2020 03:09:18 AM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+12/28/2020 03:09:18 AM - TestStatus - ERROR: test_invalidEnrollment ### TEST FAILED
+12/28/2020 03:10:10 AM - TestStatus - ERROR: ### VERIFICATION FAILED::+Enrollment Failed Verification
+12/28/2020 03:10:10 AM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
+12/28/2020 03:10:10 AM - TestStatus - ERROR: test_invalidEnrollment ### TEST FAILED
+12/28/2020 03:11:29 AM - TestStatus - INFO: ### VERIFICATION FAILED::+TITLE VERIFIED
+12/28/2020 03:11:29 AM - TestStatus - ERROR: ### Exception Occurred when taking screenshot
